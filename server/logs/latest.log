@@ -1,4 +1,250 @@
-[14:44:44] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[14:44:44] [Server thread/INFO]: Loading properties
-[14:44:44] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
-[14:44:44] [Server thread/INFO]: Stopping server
+[00:01:15] [Thread-8/INFO]: UUID of player Mor is 3016efcc-a0e9-3f98-b904-577d430e6c09
+[00:01:15] [Server thread/INFO]: Mor[/[0:0:0:0:0:0:0:1]:46702] logged in with entity id 2433 at ([world]-4.5, 62.0, -90.5)
+[00:01:45] [Server thread/INFO]: Mor lost connection: Login timed out!
+[00:01:45] [Server thread/INFO]: Mor left the game.
+[00:01:45] [Server thread/WARN]: handleDisconnection() called twice
+[00:01:52] [Thread-9/INFO]: UUID of player Mor is 3016efcc-a0e9-3f98-b904-577d430e6c09
+[00:01:52] [Server thread/INFO]: Mor[/[0:0:0:0:0:0:0:1]:56552] logged in with entity id 2501 at ([world]-4.5, 62.0, -90.5)
+[00:05:14] [Thread-10/INFO]: UUID of player Sky_Kitcat is 616d9bfd-a1b8-3da5-ac2a-61a9cf32a231
+[00:05:14] [Server thread/INFO]: Sky_Kitcat[/[0:0:0:0:0:0:0:1]:55156] logged in with entity id 2801 at ([world]3.5, 66.0, -104.5)
+[00:06:26] [Server thread/INFO]: Sky_Kitcat was slain by Zombie
+[00:06:50] [Server thread/INFO]: Mor has just earned the achievement [Taking Inventory]
+[00:07:02] [Server thread/INFO]: Set the time to 1000
+[00:07:45] [Async Chat Thread - #0/INFO]: <Mor> nice arrow you got there good sir[m
+
+[00:08:10] [Async Chat Thread - #0/INFO]: <Mor> press 't' to enter the chat[m
+
+[00:08:15] [Async Chat Thread - #0/INFO]: <Sky_Kitcat> ok[m
+
+[00:08:19] [Async Chat Thread - #0/INFO]: <Mor> *if you want to talk and such[m
+
+[00:08:43] [Async Chat Thread - #0/INFO]: <Sky_Kitcat> lets build hill house[m
+
+[00:08:46] [Server thread/INFO]: Sky_Kitcat has just earned the achievement [Taking Inventory]
+[00:09:04] [Async Chat Thread - #0/INFO]: <Sky_Kitcat> wya[m
+
+[00:09:10] [Async Chat Thread - #0/INFO]: <Mor> like... a hobbit hole? What kind of hill house are you talking abt[m
+
+[00:09:21] [Server thread/INFO]: Mor has just earned the achievement [Getting Wood]
+[00:09:27] [Async Chat Thread - #0/INFO]: <Sky_Kitcat> like in a hillside[m
+
+[00:09:42] [Async Chat Thread - #0/INFO]: <Mor> so essentaly a hobbit hole.[m
+
+[00:09:59] [Server thread/INFO]: Mor has just earned the achievement [Benchmarking]
+[00:09:59] [Async Chat Thread - #0/INFO]: <Sky_Kitcat> kinda[m
+
+[00:10:17] [Async Chat Thread - #0/INFO]: <Mor> that pool you died in is actually a pretty good spot to do that[m
+
+[00:10:35] [Async Chat Thread - #0/INFO]: <Mor> it has wter for farming and plenty of stone and space dug out[m
+
+[00:10:48] [Async Chat Thread - #0/INFO]: <Sky_Kitcat> here?[m
+
+[00:11:08] [Async Chat Thread - #0/INFO]: <Mor> and is fairly hard to get into 4 mobs; the water hole where im looking[m
+
+[00:11:36] [Server thread/INFO]: Mor has just earned the achievement [Time to Mine!]
+[00:11:53] [Async Chat Thread - #0/INFO]: <Sky_Kitcat> how to place stuff[m
+
+[00:12:05] [Async Chat Thread - #0/INFO]: <Mor> two finger click on ur touchmad[m
+
+[00:12:10] [Async Chat Thread - #0/INFO]: <Mor> *touchpad[m
+
+[00:12:46] [Async Chat Thread - #0/INFO]: <Mor> im not gonna sugarcoat it; MC on a touchpad is rough, but managable.[m
+
+[00:14:14] [Async Chat Thread - #1/INFO]: <Mor> try to keep the shape as close to a square as possible?[m
+
+[00:14:34] [Async Chat Thread - #1/INFO]: <Sky_Kitcat> jsut make it like a normal home[m
+
+[00:14:55] [Server thread/INFO]: Mor has just earned the achievement [Getting an Upgrade]
+[00:15:23] [Server thread/INFO]: Sky_Kitcat has just earned the achievement [Getting Wood]
+[00:15:44] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> APPLES[m
+
+[00:16:02] [Async Chat Thread - #2/INFO]: <Mor> SO[m
+
+[00:16:05] [Async Chat Thread - #2/INFO]: <Mor> MUCH[m
+
+[00:16:08] [Async Chat Thread - #2/INFO]: <Mor> STOOOOOOOOONE[m
+
+[00:16:15] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> im lagging[m
+
+[00:16:20] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> hard[m
+
+[00:16:34] [Async Chat Thread - #2/INFO]: <Mor> its gonna be laggy, we're playing on chromebooks[m
+
+[00:17:06] [Async Chat Thread - #2/INFO]: <Mor> NO! Don't cover the water![m
+
+[00:17:16] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> its for the plants[m
+
+[00:17:20] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> dumbo[m
+
+[00:17:23] [Async Chat Thread - #2/INFO]: <Mor> I plan on making it the centerpiece of the base[m
+
+[00:17:32] [Async Chat Thread - #2/INFO]: <Mor> and we can put dirt AROUND the pond[m
+
+[00:17:35] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> we need food somehow[m
+
+[00:17:45] [Async Chat Thread - #2/INFO]: <Mor> we dont need to cover up the water[m
+
+[00:17:51] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> fine[m
+
+[00:18:12] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> make it day[m
+
+[00:18:24] [Async Chat Thread - #2/INFO]: <Mor> why?[m
+
+[00:18:28] [Async Chat Thread - #2/INFO]: <Sky_Kitcat> brb dad called me[m
+
+[00:18:52] [Server thread/INFO]: Mor has just earned the achievement [Hot Topic]
+[00:19:31] [Async Chat Thread - #3/INFO]: <Sky_Kitcat> back[m
+
+[00:19:33] [Server thread/INFO]: Set the time to 1000
+[00:20:08] [Server thread/INFO]: Mor has just earned the achievement [Time to Strike!]
+[00:20:43] [Async Chat Thread - #4/INFO]: <Mor> I FOUND SPRUCE[m
+
+[00:20:54] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> wwwwwwwwwwwwwqwwww2wwwwwwwqweqnkwjfejfrdvkrns.l vbailcjzvnDFAJ[m
+
+[00:21:02] [Async Chat Thread - #4/INFO]: <Mor> WE HATH BEEN BLESSED!![m
+
+[00:21:35] [Server thread/INFO]: Mor was slain by Sky_Kitcat
+[00:21:39] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> uhh[m
+
+[00:21:44] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> oops[m
+
+[00:21:47] [Server thread/INFO]: Sky_Kitcat fell out of the world
+[00:21:47] [Server thread/INFO]: Killed Sky_Kitcat
+[00:21:56] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> bro[m
+
+[00:21:56] [Server thread/INFO]: Mor issued server command: /back
+[00:22:11] [Async Chat Thread - #4/INFO]: <Mor> oops indeed[m
+
+[00:22:33] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> dude u got in my way i was trying to turn[m
+
+[00:22:42] [Async Chat Thread - #4/INFO]: <Mor> now I HAVE to sort through the loot to get my stuff and your stuff seperated[m
+
+[00:23:06] [Async Chat Thread - #4/INFO]: <Mor> Uh, bs. There's no way you hit me FIVE times in a row trying to turn[m
+
+[00:23:24] [Async Chat Thread - #4/INFO]: <Mor> watch it.[m
+
+[00:23:32] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> i can bearly turn with this much lag[m
+
+[00:24:00] [Async Chat Thread - #4/INFO]: <Mor> I dropped you plants as well[m
+
+[00:24:03] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> my wood?[m
+
+[00:24:06] [Server thread/INFO]: Mor issued server command: /8planks
+[00:24:44] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> you almost done/[m
+
+[00:24:49] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> ?[m
+
+[00:25:03] [Async Chat Thread - #4/INFO]: <Mor> no, i'll be done when cows jump over the moon.[m
+
+[00:25:09] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> bruh[m
+
+[00:25:12] [Async Chat Thread - #4/INFO]: <Sky_Kitcat> drwjkcfnejwsdnvz[m
+
+[00:25:27] [Async Chat Thread - #4/INFO]: <Mor> LET THERE BE LIIIIIIIIGHT[m
+
+[00:26:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[00:27:22] [Async Chat Thread - #5/INFO]: <Sky_Kitcat> can me have torch pls[m
+
+[00:27:35] [Async Chat Thread - #5/INFO]: <Mor> theres coal over there[m
+
+[00:29:35] [Async Chat Thread - #6/INFO]: <Mor> MY PIC ZBROKE RIGHT BEFORE THE LAST DARN BLOCK![m
+
+[00:29:44] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> YESSS I GOT IRON[m
+
+[00:29:46] [Async Chat Thread - #6/INFO]: <Mor> WHAT IS THIS TORTURE?![m
+
+[00:30:07] [Server thread/INFO]: Sky_Kitcat has just earned the achievement [Benchmarking]
+[00:30:23] [Server thread/INFO]: Sky_Kitcat has just earned the achievement [Time to Mine!]
+[00:30:23] [Server thread/INFO]: Sky_Kitcat has just earned the achievement [Getting an Upgrade]
+[00:30:24] [Async Chat Thread - #6/INFO]: <Mor> Can't believe I had to make a new pickaxe to break a single block :([m
+
+[00:30:54] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> me get iron before u[m
+
+[00:31:06] [Async Chat Thread - #6/INFO]: <Mor> We're working as a team here, bud[m
+
+[00:31:15] [Async Chat Thread - #6/INFO]: <Mor> whats mine is yours, whats yours is mine[m
+
+[00:31:28] [Async Chat Thread - #6/INFO]: <Mor> There's no I in team[m
+
+[00:31:28] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> nuh uh it mine[m
+
+[00:31:33] [Async Chat Thread - #6/INFO]: <Mor> or however the saying goes[m
+
+[00:31:54] [Async Chat Thread - #6/INFO]: <Mor> BUAAHHH[m
+
+[00:31:57] [Async Chat Thread - #6/INFO]: <Mor> Scary noise[m
+
+[00:32:05] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> agree[m
+
+[00:32:18] [Async Chat Thread - #6/INFO]: <Mor> eg[m
+
+[00:32:36] [Async Chat Thread - #6/INFO]: <Mor> se? eg.[m
+
+[00:33:03] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> can i throw[m
+
+[00:33:07] [Async Chat Thread - #6/INFO]: <Mor> sure[m
+
+[00:33:14] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> ...[m
+
+[00:33:33] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> IRONNNNNNNNNNNNNNNN[m
+
+[00:33:33] [Async Chat Thread - #6/INFO]: <Mor> CONTAIN LE CHICKENS! THERES TWO![m
+
+[00:33:56] [Async Chat Thread - #6/INFO]: <Mor> Chicken farm, anybody?[m
+
+[00:34:02] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> hmm[m
+
+[00:34:41] [Async Chat Thread - #6/INFO]: <Mor> make an iron pic if you dont have much iron[m
+
+[00:35:00] [Async Chat Thread - #6/INFO]: <Mor> yeeeeeeeeeee[m
+
+[00:35:00] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> how me drop[m
+
+[00:35:23] [Async Chat Thread - #6/INFO]: <Mor> it doesn't auto put it in yur inv when you click our[m
+
+[00:35:26] [Async Chat Thread - #6/INFO]: <Mor> *out[m
+
+[00:35:33] [Async Chat Thread - #6/INFO]: <Sky_Kitcat> for your trobles sir[m
+
+[00:36:21] [Server thread/INFO]: Sky_Kitcat has just earned the achievement [Time to Strike!]
+[00:36:39] [Async Chat Thread - #7/INFO]: <Sky_Kitcat> how i block attack[m
+
+[00:49:08] [Server thread/INFO]: Mor lost connection: Disconnected
+[00:49:08] [Server thread/INFO]: Mor left the game.
+[00:49:13] [Thread-12/INFO]: UUID of player Mor is 3016efcc-a0e9-3f98-b904-577d430e6c09
+[00:49:13] [Server thread/INFO]: Mor[/[0:0:0:0:0:0:0:1]:49346] logged in with entity id 6510 at ([world]5.221185969154606, 63.0, -143.90246254149565)
+[00:52:13] [Server thread/INFO]: Mor lost connection: Disconnected
+[00:52:13] [Server thread/INFO]: Mor left the game.
+[00:52:15] [Thread-13/INFO]: UUID of player Mor is 3016efcc-a0e9-3f98-b904-577d430e6c09
+[00:52:15] [Server thread/INFO]: Mor[/[0:0:0:0:0:0:0:1]:58910] logged in with entity id 6709 at ([world]16.69050574938918, 63.0, -138.33719805669682)
+[00:55:22] [Server thread/INFO]: Sky_Kitcat lost connection: Disconnected
+[00:55:22] [Server thread/INFO]: Sky_Kitcat left the game.
+[00:55:36] [Thread-14/INFO]: UUID of player Sky_Kitcat is 616d9bfd-a1b8-3da5-ac2a-61a9cf32a231
+[00:55:36] [Server thread/INFO]: Sky_Kitcat[/[0:0:0:0:0:0:0:1]:35490] logged in with entity id 6951 at ([world]18.416207760175634, 63.0, -135.02327441765138)
+[00:55:56] [Server thread/INFO]: Sky_Kitcat lost connection: Disconnected
+[00:55:56] [Server thread/INFO]: Sky_Kitcat left the game.
+[00:56:16] [Thread-15/INFO]: UUID of player Sky_Kitcat is 616d9bfd-a1b8-3da5-ac2a-61a9cf32a231
+[00:56:16] [Server thread/INFO]: Sky_Kitcat[/[0:0:0:0:0:0:0:1]:36056] logged in with entity id 6974 at ([world]18.01263677021317, 63.0, -135.36409351818727)
+[00:58:13] [Server thread/INFO]: Mor has just earned the achievement [Monster Hunter]
+[01:00:52] [Server thread/INFO]: Sky_Kitcat lost connection: Disconnected
+[01:00:52] [Server thread/INFO]: Sky_Kitcat left the game.
+[01:00:56] [Thread-17/INFO]: UUID of player Sky_Kitcat is 616d9bfd-a1b8-3da5-ac2a-61a9cf32a231
+[01:00:56] [Server thread/INFO]: Sky_Kitcat[/[0:0:0:0:0:0:0:1]:60370] logged in with entity id 7436 at ([world]6.300000011920929, 63.0, -135.92390517639055)
+[01:06:30] [Server thread/INFO]: Mor has just earned the achievement [Time to Farm!]
+[01:07:36] [Server thread/INFO]: There is no such item with name minecraft:seed
+[01:07:41] [Server thread/INFO]: There is no such item with name minecraft:seeds
+[01:07:49] [Server thread/INFO]: There is no such item with name minecraft:wheat_seed
+[01:08:41] [Server thread/INFO]: Given [Seeds] * 4 to Mor
+[01:15:36] [Server thread/INFO]: Sky_Kitcat lost connection: Disconnected
+[01:15:36] [Server thread/INFO]: Sky_Kitcat left the game.
+[01:16:02] [Thread-18/INFO]: UUID of player Sky_Kitcat is 616d9bfd-a1b8-3da5-ac2a-61a9cf32a231
+[01:16:03] [Server thread/INFO]: Sky_Kitcat[/[0:0:0:0:0:0:0:1]:35100] logged in with entity id 8833 at ([world]7.191577081670075, 63.0, -136.54534543957175)
+[01:16:23] [Server thread/INFO]: Sky_Kitcat issued server command: /
+[01:16:33] [Server thread/INFO]: Sky_Kitcat lost connection: Login timed out!
+[01:16:33] [Server thread/INFO]: Sky_Kitcat left the game.
+[01:16:33] [Server thread/WARN]: handleDisconnection() called twice
+[01:16:45] [Thread-19/INFO]: UUID of player Sky_Kitcat is 616d9bfd-a1b8-3da5-ac2a-61a9cf32a231
+[01:16:45] [Server thread/INFO]: Sky_Kitcat[/[0:0:0:0:0:0:0:1]:41914] logged in with entity id 8892 at ([world]7.985608062356343, 63.0, -136.50401217277928)
+[01:25:46] [Server thread/INFO]: Sky_Kitcat lost connection: Disconnected
+[01:25:46] [Server thread/INFO]: Sky_Kitcat left the game.
